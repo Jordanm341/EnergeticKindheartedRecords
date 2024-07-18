@@ -1,4 +1,16 @@
 html {
   height: 100%;
   width: 100%;
-}
+
+  h1 {
+    color:rebeccapurple ;
+  }
+
+
+  background-color:royalblue ;
+  .so {
+    background-color: darkorange;
+  }
+  ul {
+    list-style: none;
+  }
